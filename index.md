@@ -1,7 +1,4 @@
 #Deborah Fygenson
 
-I am a Physics professor at UCSB. My responsibilities include:
+I am a physics faculty member at UCSB.
 
-- Teaching classes
-- Mentoring graduate students
-- Contributing to university operations
